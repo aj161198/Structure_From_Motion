@@ -1,0 +1,6 @@
+opencv-python
+dlib
+imutils
+pickle
+numpy
+open3d
